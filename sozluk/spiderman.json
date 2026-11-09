@@ -1,0 +1,17 @@
+{
+  "names": {
+    "Spider-Man": "Spider-Man",
+    "Fisk Thug": "Fisk'in Adamı",
+    "Police Dispatch": "Polis Telsizi",
+    "Wilson Fisk": "Wilson Fisk",
+    "Aunt May": "May Hala"
+  },
+  "lines": {
+    "Access Computer": "Bilgisayara eriş"
+  },
+  "fix_tr": {
+    "Örümcek Adam": "Spider-Man",
+    "Örümcek-Adam": "Spider-Man",
+    "Örümcek adam": "Spider-Man"
+  }
+}

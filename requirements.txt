@@ -1,0 +1,12 @@
+# Once PyTorch'u CUDA ile kur (requirements'tan ayri):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu126
+numpy<2.3
+opencv-python>=4.8
+rapidocr_onnxruntime>=1.3,<2
+transformers>=4.40,<5
+sentencepiece
+sacremoses
+requests
+mss
+# Hızlandırma (BENIOKU'ya bak): pip uninstall -y onnxruntime && pip install onnxruntime-gpu==1.23.2 ctranslate2==4.8.5
+PySide6

@@ -1,0 +1,18 @@
+# Kişisel ayarlar ve API anahtarları
+config.json
+
+# Dönüştürülmüş çeviri modeli (büyük, ilk açılışta otomatik oluşur)
+models/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# Ortam klasörleri
+.venv/
+venv/
+
+# Sistem dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store
